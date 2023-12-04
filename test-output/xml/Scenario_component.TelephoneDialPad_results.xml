@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression1"
+           tests="18"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.030">
+  <properties />
+  
+  
+            <testcase name="Test_phonedial" time="0.006" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.002" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.001" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.001" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.002" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.001" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.002" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.002" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.002" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.002" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.001" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.001" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.001" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.001" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.002" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.001" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.001" classname="Scenario_component.TelephoneDialPad" />
+                <testcase name="Test_phonedial" time="0.001" classname="Scenario_component.TelephoneDialPad" />
+      
+</testsuite>

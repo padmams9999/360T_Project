@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Combination of chars for number - 1 - ]]>
+    </line>
+    <line>
+      <![CDATA[1,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 2 - ]]>
+    </line>
+    <line>
+      <![CDATA[A,]]>
+    </line>
+    <line>
+      <![CDATA[B,]]>
+    </line>
+    <line>
+      <![CDATA[C,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 3 - ]]>
+    </line>
+    <line>
+      <![CDATA[D,]]>
+    </line>
+    <line>
+      <![CDATA[E,]]>
+    </line>
+    <line>
+      <![CDATA[F,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 4 - ]]>
+    </line>
+    <line>
+      <![CDATA[G,]]>
+    </line>
+    <line>
+      <![CDATA[H,]]>
+    </line>
+    <line>
+      <![CDATA[I,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 5 - ]]>
+    </line>
+    <line>
+      <![CDATA[J,]]>
+    </line>
+    <line>
+      <![CDATA[K,]]>
+    </line>
+    <line>
+      <![CDATA[L,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 6 - ]]>
+    </line>
+    <line>
+      <![CDATA[M,]]>
+    </line>
+    <line>
+      <![CDATA[N,]]>
+    </line>
+    <line>
+      <![CDATA[O,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 7 - ]]>
+    </line>
+    <line>
+      <![CDATA[P,]]>
+    </line>
+    <line>
+      <![CDATA[Q,]]>
+    </line>
+    <line>
+      <![CDATA[R,]]>
+    </line>
+    <line>
+      <![CDATA[S,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 8 - ]]>
+    </line>
+    <line>
+      <![CDATA[T,]]>
+    </line>
+    <line>
+      <![CDATA[U,]]>
+    </line>
+    <line>
+      <![CDATA[V,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 9 - ]]>
+    </line>
+    <line>
+      <![CDATA[W,]]>
+    </line>
+    <line>
+      <![CDATA[X,]]>
+    </line>
+    <line>
+      <![CDATA[Y,]]>
+    </line>
+    <line>
+      <![CDATA[Z,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 10 - ]]>
+    </line>
+    <line>
+      <![CDATA[10,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 11 - ]]>
+    </line>
+    <line>
+      <![CDATA[11,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 12 - ]]>
+    </line>
+    <line>
+      <![CDATA[1A,]]>
+    </line>
+    <line>
+      <![CDATA[1B,]]>
+    </line>
+    <line>
+      <![CDATA[1C,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 13 - ]]>
+    </line>
+    <line>
+      <![CDATA[1D,]]>
+    </line>
+    <line>
+      <![CDATA[1E,]]>
+    </line>
+    <line>
+      <![CDATA[1F,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 14 - ]]>
+    </line>
+    <line>
+      <![CDATA[1G,]]>
+    </line>
+    <line>
+      <![CDATA[1H,]]>
+    </line>
+    <line>
+      <![CDATA[1I,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 15 - ]]>
+    </line>
+    <line>
+      <![CDATA[1J,]]>
+    </line>
+    <line>
+      <![CDATA[1K,]]>
+    </line>
+    <line>
+      <![CDATA[1L,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 234 - ]]>
+    </line>
+    <line>
+      <![CDATA[ADG,]]>
+    </line>
+    <line>
+      <![CDATA[ADH,]]>
+    </line>
+    <line>
+      <![CDATA[ADI,]]>
+    </line>
+    <line>
+      <![CDATA[AEG,]]>
+    </line>
+    <line>
+      <![CDATA[AEH,]]>
+    </line>
+    <line>
+      <![CDATA[AEI,]]>
+    </line>
+    <line>
+      <![CDATA[AFG,]]>
+    </line>
+    <line>
+      <![CDATA[AFH,]]>
+    </line>
+    <line>
+      <![CDATA[AFI,]]>
+    </line>
+    <line>
+      <![CDATA[BDG,]]>
+    </line>
+    <line>
+      <![CDATA[BDH,]]>
+    </line>
+    <line>
+      <![CDATA[BDI,]]>
+    </line>
+    <line>
+      <![CDATA[BEG,]]>
+    </line>
+    <line>
+      <![CDATA[BEH,]]>
+    </line>
+    <line>
+      <![CDATA[BEI,]]>
+    </line>
+    <line>
+      <![CDATA[BFG,]]>
+    </line>
+    <line>
+      <![CDATA[BFH,]]>
+    </line>
+    <line>
+      <![CDATA[BFI,]]>
+    </line>
+    <line>
+      <![CDATA[CDG,]]>
+    </line>
+    <line>
+      <![CDATA[CDH,]]>
+    </line>
+    <line>
+      <![CDATA[CDI,]]>
+    </line>
+    <line>
+      <![CDATA[CEG,]]>
+    </line>
+    <line>
+      <![CDATA[CEH,]]>
+    </line>
+    <line>
+      <![CDATA[CEI,]]>
+    </line>
+    <line>
+      <![CDATA[CFG,]]>
+    </line>
+    <line>
+      <![CDATA[CFH,]]>
+    </line>
+    <line>
+      <![CDATA[CFI,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 456 - ]]>
+    </line>
+    <line>
+      <![CDATA[GJM,]]>
+    </line>
+    <line>
+      <![CDATA[GJN,]]>
+    </line>
+    <line>
+      <![CDATA[GJO,]]>
+    </line>
+    <line>
+      <![CDATA[GKM,]]>
+    </line>
+    <line>
+      <![CDATA[GKN,]]>
+    </line>
+    <line>
+      <![CDATA[GKO,]]>
+    </line>
+    <line>
+      <![CDATA[GLM,]]>
+    </line>
+    <line>
+      <![CDATA[GLN,]]>
+    </line>
+    <line>
+      <![CDATA[GLO,]]>
+    </line>
+    <line>
+      <![CDATA[HJM,]]>
+    </line>
+    <line>
+      <![CDATA[HJN,]]>
+    </line>
+    <line>
+      <![CDATA[HJO,]]>
+    </line>
+    <line>
+      <![CDATA[HKM,]]>
+    </line>
+    <line>
+      <![CDATA[HKN,]]>
+    </line>
+    <line>
+      <![CDATA[HKO,]]>
+    </line>
+    <line>
+      <![CDATA[HLM,]]>
+    </line>
+    <line>
+      <![CDATA[HLN,]]>
+    </line>
+    <line>
+      <![CDATA[HLO,]]>
+    </line>
+    <line>
+      <![CDATA[IJM,]]>
+    </line>
+    <line>
+      <![CDATA[IJN,]]>
+    </line>
+    <line>
+      <![CDATA[IJO,]]>
+    </line>
+    <line>
+      <![CDATA[IKM,]]>
+    </line>
+    <line>
+      <![CDATA[IKN,]]>
+    </line>
+    <line>
+      <![CDATA[IKO,]]>
+    </line>
+    <line>
+      <![CDATA[ILM,]]>
+    </line>
+    <line>
+      <![CDATA[ILN,]]>
+    </line>
+    <line>
+      <![CDATA[ILO,]]>
+    </line>
+    <line>
+      <![CDATA[Combination of chars for number - 567 - ]]>
+    </line>
+    <line>
+      <![CDATA[JMP,]]>
+    </line>
+    <line>
+      <![CDATA[JMQ,]]>
+    </line>
+    <line>
+      <![CDATA[JMR,]]>
+    </line>
+    <line>
+      <![CDATA[JMS,]]>
+    </line>
+    <line>
+      <![CDATA[JNP,]]>
+    </line>
+    <line>
+      <![CDATA[JNQ,]]>
+    </line>
+    <line>
+      <![CDATA[JNR,]]>
+    </line>
+    <line>
+      <![CDATA[JNS,]]>
+    </line>
+    <line>
+      <![CDATA[JOP,]]>
+    </line>
+    <line>
+      <![CDATA[JOQ,]]>
+    </line>
+    <line>
+      <![CDATA[JOR,]]>
+    </line>
+    <line>
+      <![CDATA[JOS,]]>
+    </line>
+    <line>
+      <![CDATA[KMP,]]>
+    </line>
+    <line>
+      <![CDATA[KMQ,]]>
+    </line>
+    <line>
+      <![CDATA[KMR,]]>
+    </line>
+    <line>
+      <![CDATA[KMS,]]>
+    </line>
+    <line>
+      <![CDATA[KNP,]]>
+    </line>
+    <line>
+      <![CDATA[KNQ,]]>
+    </line>
+    <line>
+      <![CDATA[KNR,]]>
+    </line>
+    <line>
+      <![CDATA[KNS,]]>
+    </line>
+    <line>
+      <![CDATA[KOP,]]>
+    </line>
+    <line>
+      <![CDATA[KOQ,]]>
+    </line>
+    <line>
+      <![CDATA[KOR,]]>
+    </line>
+    <line>
+      <![CDATA[KOS,]]>
+    </line>
+    <line>
+      <![CDATA[LMP,]]>
+    </line>
+    <line>
+      <![CDATA[LMQ,]]>
+    </line>
+    <line>
+      <![CDATA[LMR,]]>
+    </line>
+    <line>
+      <![CDATA[LMS,]]>
+    </line>
+    <line>
+      <![CDATA[LNP,]]>
+    </line>
+    <line>
+      <![CDATA[LNQ,]]>
+    </line>
+    <line>
+      <![CDATA[LNR,]]>
+    </line>
+    <line>
+      <![CDATA[LNS,]]>
+    </line>
+    <line>
+      <![CDATA[LOP,]]>
+    </line>
+    <line>
+      <![CDATA[LOQ,]]>
+    </line>
+    <line>
+      <![CDATA[LOR,]]>
+    </line>
+    <line>
+      <![CDATA[LOS,]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-04T22:53:18 CET" name="Practice Suite" finished-at="2023-12-04T22:53:18 CET" duration-ms="811">
+    <groups>
+      <group name="smoke">
+        <method signature="TelephoneDialPad.Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" name="Test_phonedial" class="Scenario_component.TelephoneDialPad"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-12-04T22:53:18 CET" name="Regression1" finished-at="2023-12-04T22:53:18 CET" duration-ms="811">
+      <class name="Scenario_component.TelephoneDialPad">
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=1, EXECUTE_FLAG=Y, TC_ID=TC_01, Priority=Low}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 1 - ]]>
+            </line>
+            <line>
+              <![CDATA[1,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=2, EXECUTE_FLAG=Y, TC_ID=TC_02, Priority=Low}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 2 - ]]>
+            </line>
+            <line>
+              <![CDATA[A,]]>
+            </line>
+            <line>
+              <![CDATA[B,]]>
+            </line>
+            <line>
+              <![CDATA[C,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=3, EXECUTE_FLAG=Y, TC_ID=TC_03, Priority=Low}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 3 - ]]>
+            </line>
+            <line>
+              <![CDATA[D,]]>
+            </line>
+            <line>
+              <![CDATA[E,]]>
+            </line>
+            <line>
+              <![CDATA[F,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=4, EXECUTE_FLAG=Y, TC_ID=TC_04, Priority=Low}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 4 - ]]>
+            </line>
+            <line>
+              <![CDATA[G,]]>
+            </line>
+            <line>
+              <![CDATA[H,]]>
+            </line>
+            <line>
+              <![CDATA[I,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=5, EXECUTE_FLAG=Y, TC_ID=TC_05, Priority=Low}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 5 - ]]>
+            </line>
+            <line>
+              <![CDATA[J,]]>
+            </line>
+            <line>
+              <![CDATA[K,]]>
+            </line>
+            <line>
+              <![CDATA[L,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=6, EXECUTE_FLAG=Y, TC_ID=TC_06, Priority=Low}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 6 - ]]>
+            </line>
+            <line>
+              <![CDATA[M,]]>
+            </line>
+            <line>
+              <![CDATA[N,]]>
+            </line>
+            <line>
+              <![CDATA[O,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=7, EXECUTE_FLAG=Y, TC_ID=TC_07, Priority=Low}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 7 - ]]>
+            </line>
+            <line>
+              <![CDATA[P,]]>
+            </line>
+            <line>
+              <![CDATA[Q,]]>
+            </line>
+            <line>
+              <![CDATA[R,]]>
+            </line>
+            <line>
+              <![CDATA[S,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=8, EXECUTE_FLAG=Y, TC_ID=TC_08, Priority=Low}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 8 - ]]>
+            </line>
+            <line>
+              <![CDATA[T,]]>
+            </line>
+            <line>
+              <![CDATA[U,]]>
+            </line>
+            <line>
+              <![CDATA[V,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=9, EXECUTE_FLAG=Y, TC_ID=TC_09, Priority=Low}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 9 - ]]>
+            </line>
+            <line>
+              <![CDATA[W,]]>
+            </line>
+            <line>
+              <![CDATA[X,]]>
+            </line>
+            <line>
+              <![CDATA[Y,]]>
+            </line>
+            <line>
+              <![CDATA[Z,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=10, EXECUTE_FLAG=Y, TC_ID=TC_10, Priority=Medium}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 10 - ]]>
+            </line>
+            <line>
+              <![CDATA[10,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=11, EXECUTE_FLAG=Y, TC_ID=TC_11, Priority=Medium}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 11 - ]]>
+            </line>
+            <line>
+              <![CDATA[11,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=12, EXECUTE_FLAG=Y, TC_ID=TC_12, Priority=Medium}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 12 - ]]>
+            </line>
+            <line>
+              <![CDATA[1A,]]>
+            </line>
+            <line>
+              <![CDATA[1B,]]>
+            </line>
+            <line>
+              <![CDATA[1C,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=13, EXECUTE_FLAG=Y, TC_ID=TC_13, Priority=Medium}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 13 - ]]>
+            </line>
+            <line>
+              <![CDATA[1D,]]>
+            </line>
+            <line>
+              <![CDATA[1E,]]>
+            </line>
+            <line>
+              <![CDATA[1F,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=14, EXECUTE_FLAG=Y, TC_ID=TC_14, Priority=Medium}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 14 - ]]>
+            </line>
+            <line>
+              <![CDATA[1G,]]>
+            </line>
+            <line>
+              <![CDATA[1H,]]>
+            </line>
+            <line>
+              <![CDATA[1I,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=15, EXECUTE_FLAG=Y, TC_ID=TC_15, Priority=Medium}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 15 - ]]>
+            </line>
+            <line>
+              <![CDATA[1J,]]>
+            </line>
+            <line>
+              <![CDATA[1K,]]>
+            </line>
+            <line>
+              <![CDATA[1L,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=234, EXECUTE_FLAG=Y, TC_ID=TC_16, Priority=High}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 234 - ]]>
+            </line>
+            <line>
+              <![CDATA[ADG,]]>
+            </line>
+            <line>
+              <![CDATA[ADH,]]>
+            </line>
+            <line>
+              <![CDATA[ADI,]]>
+            </line>
+            <line>
+              <![CDATA[AEG,]]>
+            </line>
+            <line>
+              <![CDATA[AEH,]]>
+            </line>
+            <line>
+              <![CDATA[AEI,]]>
+            </line>
+            <line>
+              <![CDATA[AFG,]]>
+            </line>
+            <line>
+              <![CDATA[AFH,]]>
+            </line>
+            <line>
+              <![CDATA[AFI,]]>
+            </line>
+            <line>
+              <![CDATA[BDG,]]>
+            </line>
+            <line>
+              <![CDATA[BDH,]]>
+            </line>
+            <line>
+              <![CDATA[BDI,]]>
+            </line>
+            <line>
+              <![CDATA[BEG,]]>
+            </line>
+            <line>
+              <![CDATA[BEH,]]>
+            </line>
+            <line>
+              <![CDATA[BEI,]]>
+            </line>
+            <line>
+              <![CDATA[BFG,]]>
+            </line>
+            <line>
+              <![CDATA[BFH,]]>
+            </line>
+            <line>
+              <![CDATA[BFI,]]>
+            </line>
+            <line>
+              <![CDATA[CDG,]]>
+            </line>
+            <line>
+              <![CDATA[CDH,]]>
+            </line>
+            <line>
+              <![CDATA[CDI,]]>
+            </line>
+            <line>
+              <![CDATA[CEG,]]>
+            </line>
+            <line>
+              <![CDATA[CEH,]]>
+            </line>
+            <line>
+              <![CDATA[CEI,]]>
+            </line>
+            <line>
+              <![CDATA[CFG,]]>
+            </line>
+            <line>
+              <![CDATA[CFH,]]>
+            </line>
+            <line>
+              <![CDATA[CFI,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=456, EXECUTE_FLAG=Y, TC_ID=TC_17, Priority=High}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 456 - ]]>
+            </line>
+            <line>
+              <![CDATA[GJM,]]>
+            </line>
+            <line>
+              <![CDATA[GJN,]]>
+            </line>
+            <line>
+              <![CDATA[GJO,]]>
+            </line>
+            <line>
+              <![CDATA[GKM,]]>
+            </line>
+            <line>
+              <![CDATA[GKN,]]>
+            </line>
+            <line>
+              <![CDATA[GKO,]]>
+            </line>
+            <line>
+              <![CDATA[GLM,]]>
+            </line>
+            <line>
+              <![CDATA[GLN,]]>
+            </line>
+            <line>
+              <![CDATA[GLO,]]>
+            </line>
+            <line>
+              <![CDATA[HJM,]]>
+            </line>
+            <line>
+              <![CDATA[HJN,]]>
+            </line>
+            <line>
+              <![CDATA[HJO,]]>
+            </line>
+            <line>
+              <![CDATA[HKM,]]>
+            </line>
+            <line>
+              <![CDATA[HKN,]]>
+            </line>
+            <line>
+              <![CDATA[HKO,]]>
+            </line>
+            <line>
+              <![CDATA[HLM,]]>
+            </line>
+            <line>
+              <![CDATA[HLN,]]>
+            </line>
+            <line>
+              <![CDATA[HLO,]]>
+            </line>
+            <line>
+              <![CDATA[IJM,]]>
+            </line>
+            <line>
+              <![CDATA[IJN,]]>
+            </line>
+            <line>
+              <![CDATA[IJO,]]>
+            </line>
+            <line>
+              <![CDATA[IKM,]]>
+            </line>
+            <line>
+              <![CDATA[IKN,]]>
+            </line>
+            <line>
+              <![CDATA[IKO,]]>
+            </line>
+            <line>
+              <![CDATA[ILM,]]>
+            </line>
+            <line>
+              <![CDATA[ILN,]]>
+            </line>
+            <line>
+              <![CDATA[ILO,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+        <test-method signature="Test_phonedial(java.util.Map)[pri:0, instance:Scenario_component.TelephoneDialPad@7b98f307]" started-at="2023-12-04T22:53:18 CET" name="Test_phonedial" data-provider="dp_DialPad" finished-at="2023-12-04T22:53:18 CET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Dial_Number=567, EXECUTE_FLAG=Y, TC_ID=TC_18, Priority=High}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Combination of chars for number - 567 - ]]>
+            </line>
+            <line>
+              <![CDATA[JMP,]]>
+            </line>
+            <line>
+              <![CDATA[JMQ,]]>
+            </line>
+            <line>
+              <![CDATA[JMR,]]>
+            </line>
+            <line>
+              <![CDATA[JMS,]]>
+            </line>
+            <line>
+              <![CDATA[JNP,]]>
+            </line>
+            <line>
+              <![CDATA[JNQ,]]>
+            </line>
+            <line>
+              <![CDATA[JNR,]]>
+            </line>
+            <line>
+              <![CDATA[JNS,]]>
+            </line>
+            <line>
+              <![CDATA[JOP,]]>
+            </line>
+            <line>
+              <![CDATA[JOQ,]]>
+            </line>
+            <line>
+              <![CDATA[JOR,]]>
+            </line>
+            <line>
+              <![CDATA[JOS,]]>
+            </line>
+            <line>
+              <![CDATA[KMP,]]>
+            </line>
+            <line>
+              <![CDATA[KMQ,]]>
+            </line>
+            <line>
+              <![CDATA[KMR,]]>
+            </line>
+            <line>
+              <![CDATA[KMS,]]>
+            </line>
+            <line>
+              <![CDATA[KNP,]]>
+            </line>
+            <line>
+              <![CDATA[KNQ,]]>
+            </line>
+            <line>
+              <![CDATA[KNR,]]>
+            </line>
+            <line>
+              <![CDATA[KNS,]]>
+            </line>
+            <line>
+              <![CDATA[KOP,]]>
+            </line>
+            <line>
+              <![CDATA[KOQ,]]>
+            </line>
+            <line>
+              <![CDATA[KOR,]]>
+            </line>
+            <line>
+              <![CDATA[KOS,]]>
+            </line>
+            <line>
+              <![CDATA[LMP,]]>
+            </line>
+            <line>
+              <![CDATA[LMQ,]]>
+            </line>
+            <line>
+              <![CDATA[LMR,]]>
+            </line>
+            <line>
+              <![CDATA[LMS,]]>
+            </line>
+            <line>
+              <![CDATA[LNP,]]>
+            </line>
+            <line>
+              <![CDATA[LNQ,]]>
+            </line>
+            <line>
+              <![CDATA[LNR,]]>
+            </line>
+            <line>
+              <![CDATA[LNS,]]>
+            </line>
+            <line>
+              <![CDATA[LOP,]]>
+            </line>
+            <line>
+              <![CDATA[LOQ,]]>
+            </line>
+            <line>
+              <![CDATA[LOR,]]>
+            </line>
+            <line>
+              <![CDATA[LOS,]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_phonedial -->
+      </class> <!-- Scenario_component.TelephoneDialPad -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Practice Suite -->
+</testng-results>
